@@ -1,0 +1,6 @@
+server:
+  port: 9783
+
+spring:
+  application:
+    name: my-cloud-gateway
